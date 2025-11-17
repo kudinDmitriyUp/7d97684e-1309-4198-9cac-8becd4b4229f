@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -6,11 +6,11 @@ import HeroBillboard from '@/components/sections/hero/HeroBillboard';
 import TagAbout from '@/components/sections/about/TagAbout';
 import FeatureCardOne from '@/components/sections/feature/FeatureCardOne';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
-import MetricCardTwo from '@/components/sections/metric/MetricCardTwo';
+import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import TeamCardTwo from '@/components/sections/team/TeamCardTwo';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterSocial from '@/components/sections/footer/FooterSocial';
-import { Mail, MessageCircle, Sparkles, TrendingUp, Trophy, Users, Youtube, Zap } from "lucide-react";
+import { Github, Linkedin, Mail, MessageCircle, Sparkles, TrendingUp, Trophy, Twitch, Twitter, Users, Youtube, Zap } from "lucide-react";
 
 export default function Home() {
   return (
@@ -191,11 +191,11 @@ export default function Home() {
               imageAlt: "Alex Chen portrait",
               socialLinks: [
                 {
-                  icon: "Twitter",
+                  icon: Twitter,
                   url: "https://twitter.com"
                 },
                 {
-                  icon: "Twitch",
+                  icon: Twitch,
                   url: "https://twitch.tv"
                 }
               ]
@@ -209,11 +209,11 @@ export default function Home() {
               imageAlt: "Sarah Martinez portrait",
               socialLinks: [
                 {
-                  icon: "Github",
+                  icon: Github,
                   url: "https://github.com"
                 },
                 {
-                  icon: "Linkedin",
+                  icon: Linkedin,
                   url: "https://linkedin.com"
                 }
               ]
@@ -227,12 +227,8 @@ export default function Home() {
               imageAlt: "Mike Thompson portrait",
               socialLinks: [
                 {
-                  icon: "Twitter",
+                  icon: Twitter,
                   url: "https://twitter.com"
-                },
-                {
-                  icon: "Globe",
-                  url: "https://example.com"
                 }
               ]
             }
@@ -314,17 +310,17 @@ export default function Home() {
           ]}
           socialLinks={[
             {
-              icon: "Twitter",
+              icon: Twitter,
               href: "https://twitter.com/deckmaster",
               ariaLabel: "Follow us on Twitter"
             },
             {
-              icon: "Youtube",
+              icon: Youtube,
               href: "https://youtube.com/deckmaster",
               ariaLabel: "Subscribe to our YouTube channel"
             },
             {
-              icon: "MessageCircle",
+              icon: MessageCircle,
               href: "https://discord.gg/deckmaster",
               ariaLabel: "Join our Discord community"
             }
