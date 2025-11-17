@@ -45,18 +45,18 @@ export default function Home() {
           buttons={[
             {
               text: "Start Building",
-              href: "https://example.com"
+              href: "https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpgexample.com"
             },
             {
               text: "Browse Decks",
               href: "decks"
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpg"
+          imageSrc="https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpgwebuild-dev.s3.eu-north-1.amazonaws.comhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpgusershttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpguser_35IBXHDuVlkcBNeD17jI0bcqZ1zhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpguploaded-1763394158908-8hs0l2fs.jpg"
           imageAlt="Hearthstone deck builder interface"
           frameStyle="browser"
-        />
-      </div>
+        https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpg>
+      <https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394158908-8hs0l2fs.jpgdiv>
       
       <div id="about" data-section="about">
         <TagAbout
@@ -78,13 +78,13 @@ export default function Home() {
             {
               title: "Advanced Deck Builder",
               description: "Intuitive drag-and-drop interface with real-time mana curve analysis and synergy suggestions",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394159775-1kbvmgyj.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/tmp/hearthstone-rogue-image-1763395253706-b920d68e.jpg",
               imageAlt: "Deck builder interface"
             },
             {
               title: "Complete Card Database",
               description: "Searchable database with all Hearthstone cards, filters, and detailed statistics",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/uploaded-1763394160493-5j0cybq4.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35IBXHDuVlkcBNeD17jI0bcqZ1z/tmp/hearthstone-warlock-1763395581092-7c012656.jpg",
               imageAlt: "Card database search"
             },
             {
